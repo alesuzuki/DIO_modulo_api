@@ -2,8 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DIO_modulo_api.Context;
 using DIO_modulo_api.Entities;
 using Microsoft.AspNetCore.Mvc;
+
 
 namespace DIO_modulo_api.Controllers
 {

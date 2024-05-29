@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIO_modulo_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd334b3dc1cd8c17a4ebb94c6692a59a082c6dc8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+691e929f3578a7759ed0c664e45b724fad4971f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIO_modulo_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIO_modulo_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
