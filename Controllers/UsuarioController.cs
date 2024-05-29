@@ -19,8 +19,14 @@ namespace DIO_modulo_api.Controllers
                 Data = DateTime.Now.ToLongDateString(),
                 Hora = DateTime.Now.ToShortDateString() 
             };
-
             return Ok(obj);
         }   
+
+        [HttpGet("Apresentar/{nome}")]
+        public IActionResult Apresentar(string nome)
+        {
+            var mensagem = $"Ola {nome}, seja bem vindo!";
+            return Ok(new {mensagem});
+        }
     }
 }
